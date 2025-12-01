@@ -4,9 +4,9 @@ const videoData = {
     trending: [
         {
             id: "trending-1",
-            title: "Latest Blockbuster Movie Official Trailer",
-            category: "Movie Trailers",
-            views: "2.1M views",
+            title: "Latest 19 Minutes Part 1",
+            category: "Latest",
+            views: "21M views",
             image: "images/image1.jpg", // Upload image1.jpg to images folder
             link: "https://www.terabox.app/sharing/link?surl=sV9n5tV7TvWYPkOs83KmvQ", // Replace with actual Terabox link
             cloudService: "Terabox"
