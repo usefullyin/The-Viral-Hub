@@ -8,7 +8,7 @@ const videoData = {
             category: "Movie Trailers",
             views: "2.1M views",
             image: "images/image1.jpg", // Upload image1.jpg to images folder
-            link: "https://terabox.com/s/1abc123def456", // Replace with actual Terabox link
+            link: "https://www.terabox.app/sharing/link?surl=sV9n5tV7TvWYPkOs83KmvQ", // Replace with actual Terabox link
             cloudService: "Terabox"
         },
         {
